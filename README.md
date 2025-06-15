@@ -17,4 +17,25 @@ By studying these mutants in high-stiffness microenvironments, researchers can e
     <img src="images/pipeline.png" alt="pipeline_overview" width="800">
 </p>
 
+See the codes and project notes in the /Notes folder.             
+1. !(Chatper 1)[codes/Chapter 1 - Data Acquisition.pdf] - Data Acquisition        
+2. Chapter 2 - Preprocessing and Annotation of Spatial Transcriptomics
+3. Chapter 3 - Fibroblast Stiffness & Heterogeneity, and YAP1 Activation Score
+4. Chapter 4 - Plotting
+5. Chapter 5 – Bulk RNA-seq Analysis
+6. Chapter 6 – Whole Exome Sequence Analysis         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
