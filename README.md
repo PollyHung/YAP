@@ -1,5 +1,4 @@
-# born2YAP
-Spatial Transcriptomics Analysis of YAP1 Signalling and Tissue Stiffness
+# Spatial Transcriptomics Analysis of YAP1 Signalling and Tissue Stiffness
 <p align="left">
     <img src="images/pipeline.png" alt="pipeline_overview" width="700">
 </p>
