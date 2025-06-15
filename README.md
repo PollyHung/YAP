@@ -1,7 +1,7 @@
 # born2YAP
 Spatial Transcriptomics Analysis of YAP1 Signalling and Tissue Stiffness
-<p align="center">
-    <img src="images/cover.png" alt="born2YAP" width="200">
+<p align="left">
+    <img src="images/pipeline.png" alt="pipeline_overview" width="700">
 </p>
 
 ### Background 
@@ -13,11 +13,7 @@ In contrast, YAP1-S94A carries a single point mutation (serine-94 to alanine) wi
 By studying these mutants in high-stiffness microenvironments, researchers can elucidate how mechanical cues intersect with biochemical signaling to modulate YAP1’s oncogenic activity. This approach provides insights into potential therapeutic strategies targeting YAP1-driven cancers, particularly in stiff tissue contexts where YAP1 is pathologically activated.            
 
 ### Analysis Pipeline 
-<p align="center">
-    <img src="images/pipeline.png" alt="pipeline_overview" width="800">
-</p>
-
-See the codes and project notes in the **notes** folder.             
+See the essential codes and project notes in the **notes** folder.             
 1. [Chapter 1](notes/Chapter1_Data_Acquisition.pdf) - Data Acquisition        
 2. [Chapter 2](notes/Chapter2_Preprocessing_and_Annotation_of_Spatial_Transcriptomics.pdf) - Preprocessing and Annotation of Spatial Transcriptomics
 3. [Chapter 3](notes/Chapter3_Fibroblast_Stiffness_&_Heterogeneity_and_YAP1_Activation_Score.pdf) - Fibroblast Stiffness & Heterogeneity, and YAP1 Activation Score
@@ -26,13 +22,12 @@ See the codes and project notes in the **notes** folder.
 6. Chapter 6 – Whole Exome Sequence Analysis     
 
 
-
   
 
-
-
-
-
+--------------
+<p align="center">
+    <img src="images/cover.png" alt="born2YAP" width="200">
+</p>
 
 
 
