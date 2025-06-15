@@ -18,12 +18,16 @@ By studying these mutants in high-stiffness microenvironments, researchers can e
 </p>
 
 See the codes and project notes in the /Notes folder.             
-1. [Chapter 1](https://github.com/PollyHung/born2YAP/codes/Chapter%201%20-%20Data%20Acquisition.pdf) - Data Acquisition        
-2. [Chapter 2](https://github.com/PollyHung/born2YAP/codes/Chapter%202%20-%20Preprocessing%20and%20Annotation%20of%20Spatial%20Transcriptomics.pdf) - Preprocessing and Annotation of Spatial Transcriptomics
-3. [Chapter 3](https://github.com/PollyHung/born2YAP/codes/Chapter%203%20-%20Fibroblast%20Stiffness%20&%20Heterogeneity,%20and%20YAP1%20Activation%20Score.pdf) - Fibroblast Stiffness & Heterogeneity, and YAP1 Activation Score
-4. [Chapter 4](https://github.com/PollyHung/born2YAP/codes/Chapter%204%20-%20Plotting.pdf) - Plotting
-5. [Chapter 5](https://github.com/PollyHung/born2YAP/codes/Chapter%205%20-%20Bulk%20RNA-seq%20Analysis.pdf) – Bulk RNA-seq Analysis
+1. [Chapter 1](codes/Chapter1_Data_Acquisition.pdf) - Data Acquisition        
+2. [Chapter 2](codes/Chapter2_Preprocessing_and Annotation_of_Spatial_Transcriptomics.pdf) - Preprocessing and Annotation of Spatial Transcriptomics
+3. [Chapter 3](codes/Chapter3_Fibroblast_Stiffness_&_Heterogeneity_and_YAP1_Activation_Score.pdf) - Fibroblast Stiffness & Heterogeneity, and YAP1 Activation Score
+4. [Chapter 4](codes/Chapter4_Plotting.pdf) - Plotting
+5. [Chapter 5](codes/Chapter5_Bulk_RNA-seq_Analysis.pdf) – Bulk RNA-seq Analysis
 6. Chapter 6 – Whole Exome Sequence Analysis         
+
+
+
+  
 
 
 
