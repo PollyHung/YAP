@@ -14,7 +14,7 @@ By studying these mutants in high-stiffness microenvironments, researchers can e
 
 ### Analysis Pipeline 
 <p align="center">
-    <img src="images/pipeline.png" alt="pipeline_overview" width="400">
+    <img src="images/pipeline.png" alt="pipeline_overview" width="800">
 </p>
 
 
